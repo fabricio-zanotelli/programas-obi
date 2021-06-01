@@ -12,19 +12,20 @@ if caixaaa < caixabe:
     if caixace == caixabe:
         print('Será necessário apenas duas viagens!')
     elif caixace > caixabe:
-        print('Será necessário apenas uma viagem!')
-    
+        print('Será necessário apenas uma viagem!')    
 elif caixaaa == caixabe:
     if caixaaa + caixabe < caixace:
         print('Será necessário apenas uma viagens!')
+    elif caixace == caixabe:
+        print('Será necessário três viagens!')
     elif caixaaa or caixabe < caixace:
-        print('Serão necessárias apenas duas viagens!')
+        print('Será necessário apenas duas viagens!')
 elif caixabe < caixace:
     if caixaaa < caixabe:
         print('Será necessário apenas uma viagem!')
     else:
         if caixaaa + caixabe < caixace:
             print('Será necessario apenas uma viagem!')
-        else:
-            print('Será necessário apenas duas viagens!')
+        elif caixaaa == caixabe and caixabe == caixace:
+            print('Será necessário três viagens!')
 print('.')
