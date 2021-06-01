@@ -27,4 +27,6 @@ elif caixabe < caixace:
             print('Será necessario apenas uma viagem!')
         else:
             print('Será necessário apenas duas viagens!')
+elif caixaaa == caixabe and caixabe == caixace:
+    print('Será necessário três viagens')
 print('.')
