@@ -67,3 +67,36 @@ Saída
 1
 	
 
+#  CAIXA DRONE
+Algoritmo feito em python para a resolução do problema 'entrega de caixas' da OBI 2020
+
+
+Você precisa transportar três caixas vazias usando um drone que pode levantar uma caixa por vez apenas em cada viagem. Quer dizer, sempre dá para transportar as três caixas vazias fazendo três viagens do drone. Mas talvez dê para fazer menos do que três viagens, se for possível colocar uma caixa dentro de outra. As caixas têm formato de cubo e a única restrição para uma caixa ser colocada dentro de outra é o tamanho, não importando o peso.
+
+Uma caixa de tamanho X pode ser colocada dentro de uma caixa de tamanho Y se X < Y. Note, portanto, que uma caixa não cabe dentro de outra do mesmo tamanho. Além disso, duas caixas de tamanhos X e Y podem ser colocadas, lado a lado, dentro de uma caixa de tamanho Z se (X+Y) < Z.
+
+A figura ilustra as quatro configurações possíveis para o drone fazer uma viagem.
+
+Neste problema, os tamanhos das três caixas são dados em ordem crescente e seu programa deve computar o número mínimo de viagens que o drone pode fazer para transportar todas as três caixas.
+
+## Entrada
+
+A primeira linha da entrada contém um inteiro A. A segunda linha da entrada contém um inteiro B. A terceira linha da entrada contém um inteiro C. Os três inteiros representam os tamanhos das três caixas.
+Saída
+
+Seu programa deve imprimir uma linha contendo um inteiro, representando o número mínimo de viagens que o drone pode fazer para transportar todas as três caixas.
+
+## Restrições
+
+    1 ≤ A ≤ B ≤ C ≤ 1000 
+
+## Exemplos
+Entrada
+
+12
+45
+188
+
+	Saída
+
+1
