@@ -3,12 +3,15 @@
 
 ## Índice
 
-- [Idade da Dona Mônica](#idade-da-dona-monica)
+- [IDADE DA DONA MONICA](#idade-da-dona-monica)
 - [CARRO DA OBI](#carro-da-obi)
 - [CAIXA DRONE](#caixa-drone)
-									
+- [DIVISÃO DO TESOURO](#divisao-do-tesouro)
+- [RELOGIO DE ATLETA](#relogio-de-atleta)
+- [DOMINO](#domino)
+- [BASQUETE DE ROBOS](#basquete-de-robos)
 
-## Idade da Dona Mônica
+## IDADE DA DONA MONICA (idade-dona-monica.py)
 >>>>>>> fadc0a8a5cd31d136af9832465fde1103e8974ca
 
 Este é um projeto teste, desenvolvido em Python, para resolver uma questão da primeira fase da OBI 2019.
