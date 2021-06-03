@@ -4,11 +4,8 @@
 ## Índice
 
 - [Idade da Dona Mônica](#idade-da-dona-monica)
-    - [Especificação](#especificação)
 - [CARRO DA OBI](#carro-da-obi)
-    - [Especificação](#especificação)
 - [CAIXA DRONE](#caixa-drone)
-    - [Especificação](#especificação)
 									
 
 ## Idade da Dona Mônica
