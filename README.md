@@ -1,6 +1,20 @@
+<<<<<<< HEAD
 # PROGRAMAS OBI #
 Algoritmos de resolução da OBI em python, as variaveis podem estar diferentes do que eles pede,
 # Idade da Dona Mônica (idade-dona-monica.py)
+=======
+# PROGRAMAS OBI
+> Projeto de estudo visando a implementação de algorítimos diversificados que já foram questões das provas da OBI.
+
+## Índice
+
+- [Idade da Dona Mônica](#idade-da-dona-monica)
+- [CARRO DA OBI](#carro-da-obi)
+- [CAIXA DRONE](#caixa-drone)
+									
+
+## Idade da Dona Mônica
+>>>>>>> fadc0a8a5cd31d136af9832465fde1103e8974ca
 
 Este é um projeto teste, desenvolvido em Python, para resolver uma questão da primeira fase da OBI 2019.
 
@@ -33,7 +47,11 @@ A ≠ B
 -> 20
 	
  
+<<<<<<< HEAD
 # PILOTO AUTOMATICO (carro-obi.py)
+=======
+## CARRO DA OBI
+>>>>>>> fadc0a8a5cd31d136af9832465fde1103e8974ca
 
 Algoritmo feito em Python para a questão ''PIloto automático'' da OBI 2019
 
@@ -100,6 +118,7 @@ Entrada
 	Saída
 
 1
+<<<<<<< HEAD
 
 # DIVISAO DO TESOURO (cap-olho-roxo.py)
 Algoritmo feito em python para o problema da OBI 2020 'Divisão do tesouro'
@@ -329,3 +348,5 @@ Entrada
 
 2
 	
+=======
+>>>>>>> fadc0a8a5cd31d136af9832465fde1103e8974ca
